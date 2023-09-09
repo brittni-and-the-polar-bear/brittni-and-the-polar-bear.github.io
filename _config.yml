@@ -5,5 +5,5 @@ plugins:
 
 title: brittni and the polar bear
 description: Generative art algorithms, application development, and learning resources from brittni watkins and azurepolarbear.
-#logo: assets/img/logo.png #TODO
+logo: assets/img/logo.png
 show_downloads: false
