@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme
 
 title: brittni and the polar bear
-description: generative art algorithms, application development, and learning resources from brittni watkins and azurepolarbear.
+description: the team of brittni watkins and azurepolarbear. generative art algorithms, application development, and computer science education.
 logo: assets/img/logo.png
 show_downloads: false
