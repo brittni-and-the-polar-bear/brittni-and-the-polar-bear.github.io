@@ -1,5 +1,7 @@
 # brittni and the polar bear
 
+----
+
 # [about brittni and the polar bear](./about.md)
 
 ----
