@@ -1,11 +1,13 @@
-# Subscribe to brittni and the polar bear's Email List
+# subscribe to brittni and the polar bear's email list
 
 Powered by [Mailchimp](https://mailchimp.com/)
+
+----
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: px;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -13,7 +15,7 @@ Powered by [Mailchimp](https://mailchimp.com/)
     <form action="https://linktr.us21.list-manage.com/subscribe/post?u=2c3fd4c38f742d500b2c8ae76&amp;id=4547f23077&amp;f_id=0066eee6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
         <div id="mc_embed_signup_scroll"><h2>subscribe to the brittni and polar email list</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text">Email Address: where would you like us to contact you?</span></div><div class="mc-field-group"><label for="mce-NAME">Name </label><input type="text" name="NAME" class=" text" id="mce-NAME" value=""></div><div class="mc-field-group input-group"><strong>What Types of Emails Would You Like to Recieve? </strong><ul><li><input type="checkbox" name="group[2037][1]" id="mce-group[2037]-2037-0" value=""><label for="mce-group[2037]-2037-0">Newsletters</label></li><li><input type="checkbox" name="group[2037][2]" id="mce-group[2037]-2037-1" value=""><label for="mce-group[2037]-2037-1">Application News</label></li><li><input type="checkbox" name="group[2037][4]" id="mce-group[2037]-2037-2" value=""><label for="mce-group[2037]-2037-2">Product Updates</label></li></ul></div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" value="" required=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text">Email Address: where would you like us to contact you?</span></div><div class="mc-field-group"><label for="mce-NAME">Name </label><input type="text" name="NAME" class=" text" id="mce-NAME" value=""></div><div class="mc-field-group input-group"><strong>What Types of Emails Would You Like to Recieve? </strong><ul><li><input type="checkbox" name="group[2037][1]" id="mce-group[2037]-2037-0" value=""><label for="mce-group[2037]-2037-0">Newsletters</label></li><li><input type="checkbox" name="group[2037][2]" id="mce-group[2037]-2037-1" value=""><label for="mce-group[2037]-2037-1">Application News</label></li><li><input type="checkbox" name="group[2037][4]" id="mce-group[2037]-2037-2" value=""><label for="mce-group[2037]-2037-2">Product Updates</label></li></ul></div>
         <div id="mce-responses" class="clear foot">
             <div class="response" id="mce-error-response" style="display: none;"></div>
             <div class="response" id="mce-success-response" style="display: none;"></div>
@@ -32,4 +34,3 @@ Powered by [Mailchimp](https://mailchimp.com/)
 </form>
 </div>
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
-
