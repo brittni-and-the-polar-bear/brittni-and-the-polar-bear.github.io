@@ -1,4 +1,4 @@
-# subscribe to brittni and the polar bear's email list
+# subscribe to our email list
 
 Powered by [Mailchimp](https://mailchimp.com/)
 
