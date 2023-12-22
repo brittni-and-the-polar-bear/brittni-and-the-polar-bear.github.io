@@ -1,5 +1,7 @@
 # Learning Repositories
 
+## [Learning JavaScript](./learning-javascript/)
+
 ## [Learning Ruby](./learning-ruby/)
 
 ----
