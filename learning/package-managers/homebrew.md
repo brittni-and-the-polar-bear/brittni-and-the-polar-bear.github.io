@@ -6,7 +6,7 @@ The Missing Package Manager for macOS (or Linux)
 
 ----
 
-See the current version of `brew`
+Print the current version of `brew`
 
 ```
 $ brew --version
@@ -54,7 +54,15 @@ $ brew cleanup <package_name>
 
 ----
 
-See all outdated pacakges
+Cleanup all packages
+
+```
+$ brew cleanup
+```
+
+----
+
+List all outdated pacakges
 
 ```
 $ brew outdated

@@ -11,3 +11,7 @@
 ----
 
 # [learning repositories](./learning-repositories.md)
+
+----
+
+# [programming tools we use](./tools/programming.md)
