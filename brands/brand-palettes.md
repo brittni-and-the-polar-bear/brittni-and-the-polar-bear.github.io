@@ -3,25 +3,16 @@
 ## azurepolarbear
 
 ### azurepolarbear Primary Palette
-<div style="background: #22CADD; text-align: center"><a href="#green"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
-<div style="background: #28BD37; text-align: center"><a href="#green"><p style="width: 100%; margin: 0; color: black">green with envy</p></a></div>
+<div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
-<div style="background: #141ED7;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #28BD37; text-align: center"><a href="#green"><h2 style="width: 100%; margin: 0; color: black">green with envy</h2></a></div>
 
-<div style="background: #050557;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #141ED7; text-align: center"><a href="#deep-blue"><h2 style="width: 100%; margin: 0; color: white">lapis on neptune</h2></a></div>
 
-<div style="background: #8828DC;"><p style="margin: 0"><br/></p></div>
+<div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
 
-### azurepolarbear Colors
-
-[green with envy (green)](#green)
-
-[lapis on neptune (deep blue)](#deep-blue)
-
-[navy blue](#navy-blue)
-
-[purple](#purple)
+<div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
 
 ### azurepolarbear visualizers
 
