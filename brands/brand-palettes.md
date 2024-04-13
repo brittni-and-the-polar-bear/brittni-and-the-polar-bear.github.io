@@ -1,18 +1,38 @@
+<style>
+div.color-block {
+  text-align: center;
+}
+
+h2.color-block {
+  width: 100%;
+  margin: 0;
+  padding: 0.5em;
+}
+
+h2.black-pass {
+  color: black;
+}
+
+h2.white-pass {
+  color: white;
+}
+</style>
+
 # Brand Palettes
 
 # azurepolarbear
 
 ## azurepolarbear Primary Palette
 
-<div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
+<div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
 
-<div style="background: #28BD37; text-align: center"><a href="#green"><h2 style="width: 100%; margin: 0; color: black">green with envy</h2></a></div>
+<div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
 
-<div style="background: #141ED7; text-align: center"><a href="#deep-blue"><h2 style="width: 100%; margin: 0; color: white">lapis on neptune</h2></a></div>
+<div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
-<div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
+<div class="color-block" style="background: #050557;"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
-<div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
+<div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
 <p></p>
 
