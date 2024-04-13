@@ -3,7 +3,7 @@
 ## azurepolarbear
 
 ### azurepolarbear Primary Palette
-<div style="background: #22CADD; text-align: center"><a href="#cyan"><span style="width: 100%; margin: 0; color: black;">caribbean blue</span></a></div>
+<div style="background: #22CADD; text-align: center"><a href="#green"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
 <div style="background: #28BD37; text-align: center"><a href="#green"><p style="width: 100%; margin: 0; color: black">green with envy</p></a></div>
 
