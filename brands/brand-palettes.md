@@ -14,6 +14,8 @@
 
 <div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
 
+<p></p>
+
 ## azurepolarbear Visualizers
 
 [azurepolarbear primary palette in coolors](https://coolors.co/22cadd-28bd37-141ed7-050557-8828dc)
@@ -38,6 +40,8 @@
 
 <div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
 
+<p></p>
+
 ## brittni and the polar bear Visualizers
 
 [brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
@@ -59,6 +63,8 @@
 <div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
 <div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
+
+<p></p>
 
 ## brittni watkins Visualizers
 
