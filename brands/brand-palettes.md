@@ -1,8 +1,8 @@
 # Brand Palettes
 
-## azurepolarbear
+# azurepolarbear
 
-### azurepolarbear Primary Palette
+## azurepolarbear Primary Palette
 
 <div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
@@ -14,43 +14,35 @@
 
 <div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
 
-### azurepolarbear visualizers
+## azurepolarbear Visualizers
 
 [azurepolarbear primary palette in coolors](https://coolors.co/22cadd-28bd37-141ed7-050557-8828dc)
 
 [azurepolarbear primary palette in coolors visualizer](https://coolors.co/visualizer/22cadd-28bd37-141ed7-050557-8828dc)
 
-## brittni and the polar bear
+# brittni and the polar bear
 
-### brittni and the polar bear Primary Palette
+## brittni and the polar bear Primary Palette
 
-<div style="background: #8828DC;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
 
-<div style="background: #22CADD;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
-<div style="background: #D21E96;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #D21E96; text-align: center"><a href="#magenta"><h2 style="width: 100%; margin: 0; color: white">indian lake</h2></a></div>
 
-<div style="background: #28BD37;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #28BD37; text-align: center"><a href="#green"><h2 style="width: 100%; margin: 0; color: black">green with envy</h2></a></div>
 
-<div style="background: #141ED7;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #141ED7; text-align: center"><a href="#deep-blue"><h2 style="width: 100%; margin: 0; color: white">lapis on neptune</h2></a></div>
 
-<div style="background: #B81931;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #B81931; text-align: center"><a href="#red"><h2 style="width: 100%; margin: 0; color: white">ruby shard</h2></a></div>
 
-<div style="background: #050557;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
 
-### brittni and the polar bear Colors
+## brittni and the polar bear Visualizers
 
-[purple protest: purple](#purple) `#000000`
+[brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
-[caribbean blue (cyan)](#cyan)
-
-[magenta](#magenta)
-
-[green with envy (green)](#green)
-
-[deep blue](#deep-blue)
-
-[navy blue](#navy-blue)
+[brittni and the polar bear primary palette in coolors visualizer](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
 ## brittni watkins
 
