@@ -3,7 +3,7 @@
 ## azurepolarbear
 
 ### azurepolarbear Primary Palette
-<div style="background: #22CADD;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #22CADD; text-align: center"><a href="#cyan"><span style="width: 100%; margin: 0; color: black;">cyan</span></a></div>
 
 <div style="background: #28BD37;"><p style="margin: 0;"><br/></p></div>
 
@@ -15,11 +15,11 @@
 
 ### azurepolarbear Colors
 
-[cyan](#cyan)
+[caribbean blue (cyan)](#cyan)
 
-[green](#green)
+[green with envy (green)](#green)
 
-[deep blue](#deep-blue)
+[lapis on neptune (deep blue)](#deep-blue)
 
 [navy blue](#navy-blue)
 
@@ -39,23 +39,25 @@
 
 <div style="background: #22CADD;"><p style="margin: 0;"><br/></p></div>
 
-<div style="background: #28BD37;"><p style="margin: 0;"><br/></p></div>
-
 <div style="background: #D21E96;"><p style="margin: 0;"><br/></p></div>
 
+<div style="background: #28BD37;"><p style="margin: 0;"><br/></p></div>
+
 <div style="background: #141ED7;"><p style="margin: 0;"><br/></p></div>
+
+<div style="background: #B81931;"><p style="margin: 0;"><br/></p></div>
 
 <div style="background: #050557;"><p style="margin: 0;"><br/></p></div>
 
 ### brittni and the polar bear Colors
 
-[purple protest: purple](#purple)
+[purple protest: purple](#purple) `#000000`
 
-[caribbean blue: cyan](#cyan)
-
-[green](#green)
+[caribbean blue (cyan)](#cyan)
 
 [magenta](#magenta)
+
+[green with envy (green)](#green)
 
 [deep blue](#deep-blue)
 
@@ -85,7 +87,7 @@
 
 [deep blue](#deep-blue)
 
-[cyan](#cyan)
+[caribbean blue (cyan)](#cyan)
 
 [navy blue](#navy-blue)
 
