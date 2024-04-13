@@ -44,63 +44,33 @@
 
 [brittni and the polar bear primary palette in coolors visualizer](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
-## brittni watkins
+# brittni watkins
 
-### brittni watkins Primary Palette
+## brittni watkins Primary Palette
 
-<div style="background: #D21E96;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #D21E96; text-align: center"><a href="#magenta"><h2 style="width: 100%; margin: 0; color: white">indian lake</h2></a></div>
 
-<div style="background: #8828DC;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #141ED7; text-align: center"><a href="#deep-blue"><h2 style="width: 100%; margin: 0; color: white">lapis on neptune</h2></a></div>
 
-<div style="background: #B81931;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
 
-<div style="background: #141ED7;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #B81931; text-align: center"><a href="#red"><h2 style="width: 100%; margin: 0; color: white">ruby shard</h2></a></div>
 
-<div style="background: #22CADD;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 
-<div style="background: #050557;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
 
-### brittni watkins Colors
+## brittni watkins Visualizers
 
-[magenta](#magenta)
+[brittni watkins primary palette in coolors](https://coolors.co/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
-[purple](#purple)
-
-[deep blue](#deep-blue)
-
-[caribbean blue (cyan)](#cyan)
-
-[navy blue](#navy-blue)
+[brittni watkins primary palette in coolors visualizer](https://coolors.co/visualizer/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
 # All Colors
 
-## cyan
-
-<div width="100%" style="background: #22CADD;"><p></br></p></div>
-
-HEX: `#22CADD`
-
-RGB: `rgb(34, 202, 221);`
-
-HSL: `hsl(186°, 73%, 50%);`
-
-Name: caribbean blue
-
-## deep blue
-
-<div width="100%" style="background: #141ED7;"><p></br></p></div>
-
-HEX: `#141ED7`
-
-RGB: `rgb(20, 30, 215);`
-
-HSL: `hsl(237°, 83%, 46%);`
-
-Name: lapis on neptune
-
 ## navy blue
 
-<div width="100%" style="background: #050557;"><p></br></p></div>
+<div style="background: #050557;"><p><br/></p></div>
 
 HEX: `#050557`
 
@@ -110,9 +80,33 @@ HSL: `hsl(240°, 89%, 18%);`
 
 Name: ravenclaw
 
+## deep blue
+
+<div style="background: #141ED7;"><p><br/></p></div>
+
+HEX: `#141ED7`
+
+RGB: `rgb(20, 30, 215);`
+
+HSL: `hsl(237°, 83%, 46%);`
+
+Name: lapis on neptune
+
+## cyan
+
+<div style="background: #22CADD;"><p><br/></p></div>
+
+HEX: `#22CADD`
+
+RGB: `rgb(34, 202, 221);`
+
+HSL: `hsl(186°, 73%, 50%);`
+
+Name: caribbean blue
+
 ## green
 
-<div width="100%" style="background: #28BD37;"><p></br></p></div>
+<div style="background: #28BD37;"><p><br/></p></div>
 
 HEX: `#28BD37`
 
@@ -134,6 +128,18 @@ HSL: `hsl(272°, 72%, 51%);`
 
 Name: purple protest
 
+## red
+
+<div style="background: #B81931;"><p><br/></p></div>
+
+HEX: `#B81931`
+
+RGB: `rgb(184, 25, 49);`
+
+HSL: `hsl(351°, 76%, 41%);`
+
+Name: ruby shard
+
 ## magenta
 
 <div style="background: #D21E96;"><p><br/></p></div>
@@ -146,58 +152,32 @@ HSL: `hsl(320°, 75%, 47%);`
 
 Name: indian lake
 
-## red
-
-<div style="background: #B81931;"><p style="margin: 0;"><br/></p></div>
-
-HEX: `#B81931`
-
-RGB: `rgb(184, 25, 49);`
-
-HSL: `hsl(351°, 76%, 41%);`
-
-Name: ruby shard
-
 ## Other Colors Considered
 
-<div style="background: #37C8B0;"><p><br/></p></div>
+<div style="background: #28D73C;"><p><br/></p></div>
 
 <div style="background: #37BED7;"><p><br/></p></div>
 
-<div style="background: #28D73C;"><p><br/></p></div>
+<div style="background: #37C8B0;"><p><br/></p></div>
+
+<div style="background: #502896;"><p><br/></p></div>
 
 <div style="background: #5532D2;"><p><br/></p></div>
 
 <div style="background: #6428C8;"><p><br/></p></div>
 
-<div style="background: #502896;"><p><br/></p></div>
+<div style="background: #960F28;"><p><br/></p></div>
+
+<div style="background: #AF2328;"><p><br/></p></div>
+
+<div style="background: #BE2355;"><p><br/></p></div>
+
+<div style="background: #BE2832;"><p><br/></p></div>
+
+<div style="background: #D22346;"><p><br/></p></div>
 
 <div style="background: #DC37A5;"><p><br/></p></div>
 
 <div style="background: #E1146E;"><p><br/></p></div>
 
 <div style="background: #E11E5F;"><p><br/></p></div>
-
-<div style="background: #BE2355;"><p><br/></p></div>
-
-<div style="background: #960F28;"><p><br/></p></div>
-
-<div style="background: #BE2832;"><p><br/></p></div>
-
-<div style="background: #AF2328;"><p><br/></p></div>
-
-<div style="background: #D22346;"><p><br/></p></div>
-
-# Pick up where you left off
-
-## brittni and the polar bear
-
-https://coolors.co/visualizer/8828dc-22cadd-28bd37-d21e96-141ed7-050557-b81931
-
-https://coolors.co/8828dc-22cadd-28bd37-d21e96-141ed7-050557-b81931
-
-## brittni watkins
-
-https://coolors.co/visualizer/d21e96-8828dc-b81931-141ed7-22cadd-050557
-
-https://coolors.co/d21e96-8828dc-b81931-141ed7-22cadd-050557
