@@ -3,9 +3,9 @@
 ## azurepolarbear
 
 ### azurepolarbear Primary Palette
-<div style="background: #22CADD; text-align: center"><a href="#cyan"><span style="width: 100%; margin: 0; color: black;">cyan</span></a></div>
+<div style="background: #22CADD; text-align: center"><a href="#cyan"><span style="width: 100%; margin: 0; color: black;">caribbean blue</span></a></div>
 
-<div style="background: #28BD37;"><p style="margin: 0;"><br/></p></div>
+<div style="background: #28BD37; text-align: center"><a href="#green"><p style="width: 100%; margin: 0; color: black">green with envy</p></a></div>
 
 <div style="background: #141ED7;"><p style="margin: 0;"><br/></p></div>
 
@@ -14,8 +14,6 @@
 <div style="background: #8828DC;"><p style="margin: 0"><br/></p></div>
 
 ### azurepolarbear Colors
-
-[caribbean blue (cyan)](#cyan)
 
 [green with envy (green)](#green)
 
