@@ -6,7 +6,11 @@
 
 ----
 
-# [twitch stream notes](./twitch-stream-notes/)
+# [generative art library: @batpb/genart](https://brittni-and-the-polar-bear.github.io/generative-art-library/)
+
+----
+
+# [twitch stream notes](https://brittni-and-the-polar-bear.github.io/twitch-stream-notes/)
 
 ----
 
