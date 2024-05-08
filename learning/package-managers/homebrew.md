@@ -8,78 +8,78 @@ The Missing Package Manager for macOS (or Linux)
 
 Print the current version of `brew`
 
-```
-$ brew --version
+```shell
+brew --version
 ```
 
 ----
 
 Update `brew` to the latest version
 
-```
-$ brew update
+```shell
+brew update
 ```
 
 ----
 
 Install a new package
 
-```
-$ brew install <package_name>
+```shell
+brew install <package_name>
 ```
 
 ----
 
 List all the installed packages
 
-```
-$ brew list
+```shell
+brew list
 ```
 
 ----
 
 Uninstall a package
 
-```
-$ brew uninstall <package_name>
+```shell
+brew uninstall <package_name>
 ```
 
 ----
 
 Cleanup a package
 
-```
-$ brew cleanup <package_name>
+```shell
+brew cleanup <package_name>
 ```
 
 ----
 
 Cleanup all packages
 
-```
-$ brew cleanup
+```shell
+brew cleanup
 ```
 
 ----
 
 List all outdated pacakges
 
-```
-$ brew outdated
+```shell
+brew outdated
 ```
 
 ----
 
 Upgrade a package
 
-```
-$ brew upgrade <package_name>
+```shell
+brew upgrade <package_name>
 ```
 
 ----
 
 Upgrade all packages
 
-```
-$ brew upgrade
+```shell
+brew upgrade
 ```

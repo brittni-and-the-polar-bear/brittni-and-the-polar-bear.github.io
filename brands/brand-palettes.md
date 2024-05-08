@@ -42,11 +42,15 @@ h2.white-pass {
 
 [azurepolarbear primary palette in coolors visualizer](https://coolors.co/visualizer/22cadd-28bd37-141ed7-050557-8828dc)
 
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]);</script>
+
 # brittni and the polar bear
 
 ## brittni and the polar bear Primary Palette
 
-<div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
+<div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
 <div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
 

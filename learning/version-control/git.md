@@ -8,15 +8,15 @@ Git is a free and open source distributed version control system designed to han
 
 Install `git` with [Homebrew](../package-managers/homebrew.md)
 
-```
-$ brew update
-$ brew install git
+```shell
+brew update
+brew install git
 ```
 
 ----
 
 Update the list of remote branches and remove any that no longer exist in the remote repository
 
-```
-$ git remote update origin --prune
+```shell
+git remote update origin --prune
 ```
