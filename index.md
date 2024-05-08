@@ -1,3 +1,5 @@
+<div class="short-content" style="height: 100vh">
+
 # brittni and the polar bear
 
 ----
@@ -23,3 +25,9 @@
 ----
 
 # [twitch stream notes](https://brittni-and-the-polar-bear.github.io/twitch-stream-notes/)
+
+----
+
+# [branding](./branding/brand-palettes.md)
+
+</div>
