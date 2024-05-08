@@ -38,8 +38,6 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The team is hard at work on the generative art library this weekend! <a href="https://t.co/LTvQkpFhws">https://t.co/LTvQkpFhws</a></p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1784611836354085089?ref_src=twsrc%5Etfw">April 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br/>
-
 [Table of Contents](#table-of-contents)
 
 ----
@@ -62,8 +60,6 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hello, fellow builders! 👋🏽<br><br>We are making a website for a new client (also our first client)! 🎉<br><br>We would like the site to be built using a hosting/publishing service for convenience, security, and speed. 👩🏽‍💻<br><br>The client doesn&#39;t plan to do any online commerce at this time, but…</p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1785756470463599027?ref_src=twsrc%5Etfw">May 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br/>
-
 [Table of Contents](#table-of-contents)
 
 ----
@@ -73,8 +69,6 @@ tags:
 ## It's Exactly What We've Been Looking For!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So glad we found this! It’s exactly what we’ve been looking for <a href="https://t.co/qHP0BTHCJH">https://t.co/qHP0BTHCJH</a></p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1786027548238876672?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
 
 [Table of Contents](#table-of-contents)
 
@@ -94,6 +88,6 @@ tags:
 
 # Fin.
 
-## [All Posts](/blog/all-posts.html)
+## [Posts Archive](/blog/all-posts.html)
 
 ## [Blog Home](/blog/index.html)

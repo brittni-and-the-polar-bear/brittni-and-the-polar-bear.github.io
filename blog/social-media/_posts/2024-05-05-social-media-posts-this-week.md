@@ -41,8 +41,6 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We know we’re a day late, but we had to share this. How can you not love octocat? 💜 <a href="https://t.co/986yMlEq7S">https://t.co/986yMlEq7S</a></p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1787173272158675298?ref_src=twsrc%5Etfw">May 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br/>
-
 [Table of Contents](#table-of-contents)
 
 ----
@@ -52,8 +50,6 @@ tags:
 ## Alt Text
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One thing that we really want to focus on as we build this business is accessibility.<br><br>Do the structure and color of our websites follow the current guidelines? Do all our videos with spoken audio have subtitles?<br><br>Today, we figured out how to set alt text for images on the social…</p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1787479798308086146?ref_src=twsrc%5Etfw">May 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
 
 [Table of Contents](#table-of-contents)
 
@@ -70,8 +66,6 @@ tags:
 ## Awesome
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These are awesome!!! <a href="https://t.co/VaJJbd1xkn">https://t.co/VaJJbd1xkn</a></p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1787994689511010751?ref_src=twsrc%5Etfw">May 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
 
 [Table of Contents](#table-of-contents)
 
@@ -103,6 +97,6 @@ tags:
 
 # Fin.
 
-## [All Posts](/blog/all-posts.html)
+## [Posts Archive](/blog/all-posts.html)
 
 ## [Blog Home](/blog/index.html)
