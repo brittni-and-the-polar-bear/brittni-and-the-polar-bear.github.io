@@ -1,3 +1,4 @@
+<!--suppress JSUnresolvedLibraryURL -->
 <style>
 div.color-block {
   text-align: center;
