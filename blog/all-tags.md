@@ -14,4 +14,6 @@
   <h3><a href="./posts-by-tag/{{ tag_filename }}.html">{{ tag }}</a></h3>
 {% endfor %}
 
-### [Blog Home](./index.md)
+----
+
+## [Blog Home](./index.md)

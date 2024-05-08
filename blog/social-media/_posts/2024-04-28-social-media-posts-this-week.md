@@ -68,8 +68,10 @@ tags:
 
 # Saturday, May 4, 2024
 
+----
+
 Fin.
 
-### [All Posts](/blog/all-posts.md)
+## [All Posts](/blog/all-posts.html)
 
-### [Blog Home](/blog/index.md)
+## [Blog Home](/blog/index.html)

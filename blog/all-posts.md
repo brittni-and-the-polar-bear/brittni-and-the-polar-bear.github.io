@@ -5,4 +5,6 @@
   <h3>{{ post_date }}: <a href="..{{ post.url }}">{{ post.title }}</a></h3>
 {% endfor %}
 
-### [Blog Home](./index.md)
+----
+
+## [Blog Home](./index.md)
