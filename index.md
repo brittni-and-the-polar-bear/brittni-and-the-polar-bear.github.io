@@ -1,5 +1,3 @@
-<div class="short-content" style="height: 100vh">
-
 # brittni and the polar bear
 
 ----
@@ -29,5 +27,3 @@
 ----
 
 # [branding](./branding/brand-palettes.md)
-
-</div>
