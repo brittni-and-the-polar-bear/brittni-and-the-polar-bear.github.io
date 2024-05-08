@@ -14,4 +14,4 @@
 
 ----
 
-# [blog archive tags](./all-tags.md)
+# [archive tags](./all-tags.md)

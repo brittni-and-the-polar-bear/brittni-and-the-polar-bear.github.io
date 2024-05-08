@@ -1,4 +1,4 @@
-# All Blog Tags
+# Archive Tags
 
 {% assign tag_names = "" %}
 {% for tag in site.tags %}

@@ -24,7 +24,7 @@ tags:
   - [Request for Recommendations](#request-for-recommendations)
 
 [Thursday, May 2, 2024](#thursday-may-2-2024)
-  - [It's Exactly What We've Been Looking For](#its-exactly-what-weve-been-looking-for)
+  - [It's Exactly What We've Been Looking For!](#its-exactly-what-weve-been-looking-for)
 
 [Friday, May 3, 2024](#friday-may-3-2024)
 
