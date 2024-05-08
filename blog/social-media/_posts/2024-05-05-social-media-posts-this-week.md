@@ -12,6 +12,7 @@ tags:
 # Table of Contents
 
 [Sunday, May 5, 2024](#sunday-may-5-2024)
+  - [Octocat!](#octocat)
 
 [Monday, May 6, 2024](#monday-may-6-2024)
 
@@ -28,6 +29,10 @@ tags:
 [Fin.](#fin)
 
 # Sunday, May 5, 2024
+
+## Octocat!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We know we’re a day late, but we had to share this. How can you not love octocat? 💜 <a href="https://t.co/986yMlEq7S">https://t.co/986yMlEq7S</a></p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1787173272158675298?ref_src=twsrc%5Etfw">May 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Table of Contents](#table-of-contents)
 
