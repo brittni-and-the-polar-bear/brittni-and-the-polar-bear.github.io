@@ -47,6 +47,8 @@ h2.white-pass {
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]);</script>
 
+<br/>
+
 # brittni and the polar bear
 
 ## brittni and the polar bear Primary Palette
