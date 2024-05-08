@@ -13,3 +13,5 @@
   {%- assign tag_filename = tag | downcase | replace: " ", "-" -%}
   <h3><a href="./posts-by-tag/{{ tag_filename }}.html">{{ tag }}</a></h3>
 {% endfor %}
+
+### [Blog Home](./index.md)

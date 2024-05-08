@@ -5,6 +5,8 @@ date: 2024-04-28 00:00:00 -0000
 title: "Social Media Posts This Week: April 28, 2024 - May 4, 2024"
 tags:
   - social media
+  - x
+  - twitter
 ---
 
 <!--suppress JSUnresolvedLibraryURL -->
@@ -67,3 +69,7 @@ tags:
 # Saturday, May 4, 2024
 
 Fin.
+
+### [All Posts](/blog/all-posts.md)
+
+### [Blog Home](/blog/index.md)
