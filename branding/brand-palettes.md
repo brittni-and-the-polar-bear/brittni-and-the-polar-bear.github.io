@@ -35,7 +35,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
-<p></p>
+<br/>
 
 ## azurepolarbear Visualizers
 
@@ -53,19 +53,19 @@ h2.white-pass {
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
-<div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
+<div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
 
-<div style="background: #D21E96; text-align: center"><a href="#magenta"><h2 style="width: 100%; margin: 0; color: white">indian lake</h2></a></div>
+<div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
 
-<div style="background: #28BD37; text-align: center"><a href="#green"><h2 style="width: 100%; margin: 0; color: black">green with envy</h2></a></div>
+<div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
 
-<div style="background: #141ED7; text-align: center"><a href="#deep-blue"><h2 style="width: 100%; margin: 0; color: white">lapis on neptune</h2></a></div>
+<div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
-<div style="background: #B81931; text-align: center"><a href="#red"><h2 style="width: 100%; margin: 0; color: white">ruby shard</h2></a></div>
+<div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
 
-<div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
+<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
-<p></p>
+<br/>
 
 ## brittni and the polar bear Visualizers
 
@@ -77,19 +77,19 @@ h2.white-pass {
 
 ## brittni watkins Primary Palette
 
-<div style="background: #D21E96; text-align: center"><a href="#magenta"><h2 style="width: 100%; margin: 0; color: white">indian lake</h2></a></div>
+<div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
 
-<div style="background: #141ED7; text-align: center"><a href="#deep-blue"><h2 style="width: 100%; margin: 0; color: white">lapis on neptune</h2></a></div>
+<div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
-<div style="background: #8828DC; text-align: center"><a href="#purple"><h2 style="width: 100%; margin: 0; color: white">purple protest</h2></a></div>
+<div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
-<div style="background: #B81931; text-align: center"><a href="#red"><h2 style="width: 100%; margin: 0; color: white">ruby shard</h2></a></div>
+<div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
 
-<div style="background: #22CADD; text-align: center"><a href="#cyan"><h2 style="width: 100%; margin: 0; color: black">caribbean blue</h2></a></div>
+<div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
 
-<div style="background: #050557; text-align: center"><a href="#navy-blue"><h2 style="width: 100%; margin: 0; color: white">ravenclaw</h2></a></div>
+<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
-<p></p>
+<br/>
 
 ## brittni watkins Visualizers
 
@@ -182,33 +182,3 @@ RGB: `rgb(210, 30, 150);`
 HSL: `hsl(320°, 75%, 47%);`
 
 Name: indian lake
-
-## Other Colors Considered
-
-<div style="background: #28D73C;"><p><br/></p></div>
-
-<div style="background: #37BED7;"><p><br/></p></div>
-
-<div style="background: #37C8B0;"><p><br/></p></div>
-
-<div style="background: #502896;"><p><br/></p></div>
-
-<div style="background: #5532D2;"><p><br/></p></div>
-
-<div style="background: #6428C8;"><p><br/></p></div>
-
-<div style="background: #960F28;"><p><br/></p></div>
-
-<div style="background: #AF2328;"><p><br/></p></div>
-
-<div style="background: #BE2355;"><p><br/></p></div>
-
-<div style="background: #BE2832;"><p><br/></p></div>
-
-<div style="background: #D22346;"><p><br/></p></div>
-
-<div style="background: #DC37A5;"><p><br/></p></div>
-
-<div style="background: #E1146E;"><p><br/></p></div>
-
-<div style="background: #E11E5F;"><p><br/></p></div>
