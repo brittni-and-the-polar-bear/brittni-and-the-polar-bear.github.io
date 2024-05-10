@@ -29,7 +29,7 @@ tags:
 [Wednesday, May 8, 2024](#wednesday-may-8-2024)
   - [Running a Business is Hard](#running-a-business-is-hard)
   - [Which is Your Favorite?](#which-is-your-favorite)
-  - [Facebook Shares](#wednesdays-facebook-shares)
+  - [Wednesday's Facebook Shares](#wednesdays-facebook-shares)
 
 [Thursday, May 9, 2024](#thursday-may-9-2024)
   - [Alt Text Screenshot](#alt-text-screenshot)
@@ -95,6 +95,8 @@ tags:
 ## Wednesday's Facebook Shares
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbrittniandthepolarbear%2Fposts%2Fpfbid0F4PZ8dTY33VW6LWob7KtKJZTSs2hCQijmg5QQVY8XgW3UCnk9ZHiEwUXvgRT8WtBl&show_text=true&width=500&is_preview=true" width="500" height="266" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<br/>
 
 [Table of Contents](#table-of-contents)
 
