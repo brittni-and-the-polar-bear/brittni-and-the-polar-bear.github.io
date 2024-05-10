@@ -96,8 +96,6 @@ tags:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbrittniandthepolarbear%2Fposts%2Fpfbid0F4PZ8dTY33VW6LWob7KtKJZTSs2hCQijmg5QQVY8XgW3UCnk9ZHiEwUXvgRT8WtBl&show_text=true&width=500&is_preview=true" width="500" height="266" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-<br/>
-
 [Table of Contents](#table-of-contents)
 
 ----
