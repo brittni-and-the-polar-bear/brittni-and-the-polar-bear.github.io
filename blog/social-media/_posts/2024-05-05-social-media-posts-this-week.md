@@ -26,6 +26,7 @@ tags:
   - [Awesome](#awesome)
 
 [Wednesday, May 8, 2024](#wednesday-may-8-2024)
+  - [Running a Business is Hard](#running-a-business-is-hard)
 
 [Thursday, May 9, 2024](#thursday-may-9-2024)
 
@@ -72,6 +73,10 @@ tags:
 ----
 
 # Wednesday, May 8, 2024
+
+## Running a Business is Hard
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This serves as my weekly complaint that starting and running a business is hard.<br><br>I love the coding, and the social media management is actually kinda fun too.<br><br>But the expense tracking? And the taxes? And all the paperwork you have to file with multiple levels and departments of…</p>&mdash; brittni and the polar bear (@brittniandbear) <a href="https://twitter.com/brittniandbear/status/1788241543993684207?ref_src=twsrc%5Etfw">May 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Table of Contents](#table-of-contents)
 
