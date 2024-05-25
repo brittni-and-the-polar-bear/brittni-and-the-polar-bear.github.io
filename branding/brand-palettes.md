@@ -44,6 +44,8 @@ h2.white-pass {
   - [red (ruby shard)](#red)
   - [magenta (indian lake)](#magenta)
 
+----
+
 # azurepolarbear
 
 ## azurepolarbear primary palette
@@ -92,9 +94,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
-<br/>
-
-[table of contents](#table-of-contents)
+<br/>[table of contents](#table-of-contents)
 
 ## brittni and the polar bear primary visualizers
 
@@ -103,6 +103,8 @@ h2.white-pass {
 [brittni and the polar bear primary palette in coolors visualizer](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
 [table of contents](#table-of-contents)
+
+----
 
 # brittni watkins
 
@@ -120,9 +122,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
-<br/>
-
-[table of contents](#table-of-contents)
+<br/>[table of contents](#table-of-contents)
 
 ## brittni watkins primary visualizers
 
@@ -131,6 +131,8 @@ h2.white-pass {
 [brittni watkins primary palette in coolors visualizer](https://coolors.co/visualizer/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
 [table of contents](#table-of-contents)
+
+----
 
 # All Colors
 
