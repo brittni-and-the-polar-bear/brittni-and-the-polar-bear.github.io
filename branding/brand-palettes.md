@@ -44,6 +44,8 @@ a.white-pass:visited {
 [azurepolarbear](#azurepolarbear)
   - [primary palette](#azurepolarbear-primary-palette)
   - [primary visualizers](#azurepolarbear-primary-visualizers)
+  - [pastel palette](#azurepolarbear-pastel-palette)
+  - [pastel visualizers](#azurepolarbear-pastel-visualizers)
 
 [brittni and the polar bear](#brittni-and-the-polar-bear)
   - [primary palette](#brittni-and-the-polar-bear-primary-palette)
@@ -84,11 +86,25 @@ a.white-pass:visited {
 
 [azurepolarbear primary palette in coolors](https://coolors.co/22cadd-28bd37-141ed7-050557-8828dc)
 
-[azurepolarbear primary palette in coolors visualizer](https://coolors.co/visualizer/22cadd-28bd37-141ed7-050557-8828dc)
+[azurepolarbear primary palette visualizer in coolors](https://coolors.co/visualizer/22cadd-28bd37-141ed7-050557-8828dc)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## azurepolarbear pastel palette
+
+## azurepolarbear pastel visualizers
+
+[azurepolarbear pastel palette in coolors](https://coolors.co/91e4ee-89e692-8187f3-3939f3-c596ee)
+
+[azurepolarbear pastel palette visualizer in coolors](https://coolors.co/visualizer/91e4ee-89e692-8187f3-3939f3-c596ee)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="05679841864323099">new CoolorsPaletteWidget("05679841864323099", ["91e4ee","89e692","8187f3","3939f3","c596ee"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -228,6 +244,26 @@ Name: green with envy
 
 [table of contents](#table-of-contents)
 
+## pastel navy
+
+#3939f3
+
+BRIGHT GREEK
+
+57, 57, 243
+
+240°, 89%, 59%
+
+## pastel blue
+
+#8187f3
+
+LAVENDER BLUE SHADOW
+
+129, 135, 243
+
+237°, 83%, 73%
+
 ## purple
 
 <div style="background: #8828DC;"><p><br/></p></div>
@@ -242,6 +278,33 @@ Name: purple protest
 
 [table of contents](#table-of-contents)
 
+## pastel green
+
+#89E692
+
+ULVA LACTUCA GREEN
+
+137, 230, 146
+
+126°, 65%, 72%
+
+## pastel cyan (photon barrier)
+
+<div style="background: #91E4EE;">
+  <h3 class="color-block black-pass">pastel cyan</h3>
+  <h3 class="color-block black-pass">photon barrier</h3>
+  <p class="color-block black-pass">
+    HEX: <code class="color-block black-pass">#91E4EE</code>
+  </p>
+  <p class="color-block black-pass">
+    RGB: <code class="color-block black-pass">rgb(145, 228, 238);</code>
+  </p>
+  <p class="color-block black-pass">
+    HSL: <code class="color-block black-pass">hsl(186°, 73%, 75%);</code>
+  </p>
+  <a class="color-block black-pass" href="https://coolors.co/91e4ee" target="_blank" rel="noopener noreferrer">see the color on coolors</a>
+</div>
+
 ## red
 
 <div style="background: #B81931;"><p><br/></p></div>
@@ -255,6 +318,16 @@ HSL: `hsl(351°, 76%, 41%);`
 Name: ruby shard
 
 [table of contents](#table-of-contents)
+
+## pastel purple
+
+#C596EE
+
+DREAM VAPOR
+
+197, 150, 238
+
+272°, 72%, 76%
 
 ## magenta
 
