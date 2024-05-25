@@ -129,6 +129,16 @@ a.white-pass:visited {
 
 # brittni and the polar bear
 
+## brittni and the polar bear official visualizers
+
+[brittni and the polar bear official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-150623-030526-eefbfc-fceef7)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="07533207514252591">new CoolorsPaletteWidget("07533207514252591", ["8828dc","22cadd","d21e96","28bd37","141ed7","150623","030526","eefbfc","fceef7"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
 ## brittni and the polar bear primary palette
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
