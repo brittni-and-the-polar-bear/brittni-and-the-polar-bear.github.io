@@ -49,11 +49,15 @@ a.white-pass:visited {
 
 [brittni and the polar bear](#brittni-and-the-polar-bear)
   - [primary palette](#brittni-and-the-polar-bear-primary-palette)
+  - [official palette](#brittni-and-the-polar-bear-official-palette)
   - [primary visualizers](#brittni-and-the-polar-bear-primary-visualizers)
+  - [official visualizers](#brittni-and-the-polar-bear-official-visualizers)
+  - [compact official visualizers](#brittni-and-the-polar-bear-compact-official-visualizers)
   - [light visualizers](#brittni-and-the-polar-bear-light-visualizers)
   - [pastel visualizers](#brittni-and-the-polar-bear-pastel-visualizers)
   - [pale visualizers](#brittni-and-the-polar-bear-pale-visualizers)
   - [dark visualizers](#brittni-and-the-polar-bear-dark-visualizers)
+  - [darkest visualizers](#brittni-and-the-polar-bear-darkest-visualizers)
 
 [brittni watkins](#brittni-watkins)
   - [primary palette](#brittni-watkins-primary-palette)
@@ -171,6 +175,18 @@ a.white-pass:visited {
 
 <br/>[table of contents](#table-of-contents)
 
+## brittni and the polar bear primary visualizers
+
+[brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
+
+[brittni and the polar bear primary palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="048167341920836604">new CoolorsPaletteWidget("048167341920836604", ["8828dc","22cadd","d21e96","28bd37","141ed7","b81931","050557"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
 ## brittni and the polar bear official visualizers
 
 [brittni and the polar bear official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc)
@@ -192,18 +208,6 @@ a.white-pass:visited {
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="06026731077346608">new CoolorsPaletteWidget("06026731077346608", ["8828dc","22cadd","d21e96","28bd37","141ed7","030526","f9fbfb"]); </script>
-
-<br/>[table of contents](#table-of-contents)
-
-## brittni and the polar bear primary visualizers
-
-[brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
-
-[brittni and the polar bear primary palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
-
-<!-- Coolors Palette Widget -->
-<script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="048167341920836604">new CoolorsPaletteWidget("048167341920836604", ["8828dc","22cadd","d21e96","28bd37","141ed7","b81931","050557"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
