@@ -4,17 +4,23 @@ div.color-block {
   text-align: center;
 }
 
-h2.color-block {
+div.color-card {
   width: 100%;
   margin: 0;
   padding: 0.5em;
 }
 
-h2.black-pass {
+.color-block {
+  width: 100%;
+  margin: 0;
+  padding: 0.5em;
+}
+
+.black-pass {
   color: black;
 }
 
-h2.white-pass {
+.white-pass {
   color: white;
 }
 </style>
@@ -36,7 +42,7 @@ h2.white-pass {
   - [primary visualizers](#brittni-watkins-primary-visualizers)
 
 [all colors](#all-colors)
-  - [navy blue (ravenclaw)](#navy-blue)
+  - [navy blue (ravenclaw)](#navy-blue-ravenclaw)
   - [deep blue (lapis on neptune)](#deep-blue)
   - [cyan (caribbean blue)](#cyan)
   - [green (green with envy)](#green)
@@ -56,7 +62,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
-<div class="color-block" style="background: #050557;"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
+<div class="color-block" style="background: #050557;"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
@@ -92,7 +98,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
 
-<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
+<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -120,7 +126,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
 
-<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
+<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -136,17 +142,24 @@ h2.white-pass {
 
 # All Colors
 
-## navy blue
+<div style="background: #050557;">
+<h2 class="color-block white-pass">navy blue (ravenclaw)</h2>
+<p class="color-block white-pass">Name: ravenclaw</p>
+<p class="color-block white-pass">HEX: <code class="color-block white-pass">#050557</code></p>
+<p class="color-block white-pass">RGB: <code class="color-block white-pass">rgb(5, 5, 87);</code></p>
+<p class="color-block white-pass">HSL: <code class="color-block white-pass">hsl(240°, 89%, 18%);</code></p>
+</div>
 
-<div style="background: #050557;"><p><br/></p></div>
+<br/>
+<br/>
 
-HEX: `#050557`
-
-RGB: `rgb(5, 5, 87);`
-
-HSL: `hsl(240°, 89%, 18%);`
-
-Name: ravenclaw
+<div class="color-card white-pass" style="background: #050557;">
+<h2>navy blue (ravenclaw) 2</h2>
+<p>Name: ravenclaw</p>
+<p>HEX: <code>#050557</code></p>
+<p>RGB: <code>rgb(5, 5, 87);</code></p>
+<p>HSL: <code>hsl(240°, 89%, 18%);</code></p>
+</div>
 
 [table of contents](#table-of-contents)
 
