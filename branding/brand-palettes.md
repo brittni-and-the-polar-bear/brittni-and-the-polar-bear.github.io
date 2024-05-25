@@ -14,11 +14,23 @@ div.color-block {
   color: black;
 }
 
+a.black-pass:hover {
+  color: black;
+}
+
+a.black-pass:visited {
+  color: black;
+}
+
 .white-pass {
   color: white;
 }
 
 a.white-pass:hover {
+  color: white;
+}
+
+a.white-pass:visited {
   color: white;
 }
 </style>
@@ -43,7 +55,7 @@ a.white-pass:hover {
 
 [all colors](#all-colors)
   - [navy blue (ravenclaw)](#navy-blue-ravenclaw)
-  - [deep blue (lapis on neptune)](#deep-blue)
+  - [deep blue (lapis on neptune)](#deep-blue-lapis-on-neptune)
   - [cyan (caribbean blue)](#cyan)
   - [green (green with envy)](#green)
   - [purple (purple protest)](#purple)
@@ -60,7 +72,7 @@ a.white-pass:hover {
 
 <div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
 
-<div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
+<div class="color-block" style="background: #141ED7;"><a href="#deep-blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
 <div class="color-block" style="background: #050557;"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
@@ -94,7 +106,7 @@ a.white-pass:hover {
 
 <div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
 
-<div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
+<div class="color-block" style="background: #141ED7;"><a href="#deep-blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
 <div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
 
@@ -118,7 +130,7 @@ a.white-pass:hover {
 
 <div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
 
-<div class="color-block" style="background: #141ED7;"><a href="#deep-blue"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
+<div class="color-block" style="background: #141ED7;"><a href="#deep-blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
@@ -145,27 +157,38 @@ a.white-pass:hover {
 ## navy blue (ravenclaw)
 
 <div style="background: #050557;">
-<h3 class="color-block white-pass">navy blue</h3>
-<h3 class="color-block white-pass">ravenclaw</h3>
-<p class="color-block white-pass">HEX: <code class="color-block white-pass">#050557</code></p>
-<p class="color-block white-pass">RGB: <code class="color-block white-pass">rgb(5, 5, 87);</code></p>
-<p class="color-block white-pass">HSL: <code class="color-block white-pass">hsl(240°, 89%, 18%);</code></p>
-<a class="color-block white-pass" href="https://coolors.co/050557" target="_blank" rel="noopener noreferrer">see the color on coolors</a>
+  <h3 class="color-block white-pass">navy blue</h3>
+  <h3 class="color-block white-pass">ravenclaw</h3>
+  <p class="color-block white-pass">
+    HEX: <code class="color-block white-pass">#050557</code>
+  </p>
+  <p class="color-block white-pass">
+    RGB: <code class="color-block white-pass">rgb(5, 5, 87);</code>
+  </p>
+  <p class="color-block white-pass">
+    HSL: <code class="color-block white-pass">hsl(240°, 89%, 18%);</code>
+  </p>
+  <a class="color-block white-pass" href="https://coolors.co/050557" target="_blank" rel="noopener noreferrer">see the color on coolors</a>
 </div>
 
 <br/>[table of contents](#table-of-contents)
 
-## deep blue
+## deep blue (lapis on neptune)
 
-<div style="background: #141ED7;"><p><br/></p></div>
-
-HEX: `#141ED7`
-
-RGB: `rgb(20, 30, 215);`
-
-HSL: `hsl(237°, 83%, 46%);`
-
-Name: lapis on neptune
+<div style="background: #141ED7;">
+  <h3 class="color-block white-pass">deep blue</h3>
+  <h3 class="color-block white-pass">lapis on neptune</h3>
+  <p class="color-block white-pass">
+    HEX: <code class="color-block white-pass">#141ED7</code>
+  </p>
+  <p class="color-block white-pass">
+    RGB: <code class="color-block white-pass">rgb(20, 30, 215);</code>
+  </p>
+  <p class="color-block white-pass">
+    HSL: <code class="color-block white-pass">hsl(237°, 83%, 46%);</code>
+  </p>
+  <a class="color-block white-pass" href="https://coolors.co/141ed7" target="_blank" rel="noopener noreferrer">see the color on coolors</a>
+</div>
 
 [table of contents](#table-of-contents)
 
