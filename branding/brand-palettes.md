@@ -19,11 +19,34 @@ h2.white-pass {
 }
 </style>
 
-# Brand Palettes
+# brand palettes
+
+# table of contents
+
+[azurepolarbear](#azurepolarbear)
+  - [primary palette](#azurepolarbear-primary-palette)
+  - [primary visualizers](#azurepolarbear-primary-visualizers)
+
+[brittni and the polar bear](#brittni-and-the-polar-bear)
+  - [primary palette](#brittni-and-the-polar-bear-primary-palette)
+  - [primary visualizers](#brittni-and-the-polar-bear-primary-visualizers)
+
+[brittni watkins](#brittni-watkins)
+  - [primary palette](#brittni-watkins-primary-palette)
+  - [primary visualizers](#brittni-watkins-primary-visualizers)
+
+[all colors](#all-colors)
+  - [navy blue (ravenclaw)](#navy-blue)
+  - [deep blue (lapis on neptune)](#deep-blue)
+  - [cyan (caribbean blue)](#cyan)
+  - [green (green with envy)](#green)
+  - [purple (purple protest)](#purple)
+  - [red (ruby shard)](#red)
+  - [magenta (indian lake)](#magenta)
 
 # azurepolarbear
 
-## azurepolarbear Primary Palette
+## azurepolarbear primary palette
 
 <div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
 
@@ -37,7 +60,9 @@ h2.white-pass {
 
 <br/>
 
-## azurepolarbear Visualizers
+[table of contents](#table-of-contents)
+
+## azurepolarbear primary visualizers
 
 [azurepolarbear primary palette in coolors](https://coolors.co/22cadd-28bd37-141ed7-050557-8828dc)
 
@@ -49,9 +74,11 @@ h2.white-pass {
 
 <br/>
 
+[table of contents](#table-of-contents)
+
 # brittni and the polar bear
 
-## brittni and the polar bear Primary Palette
+## brittni and the polar bear primary palette
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
@@ -69,15 +96,19 @@ h2.white-pass {
 
 <br/>
 
-## brittni and the polar bear Visualizers
+[table of contents](#table-of-contents)
+
+## brittni and the polar bear primary visualizers
 
 [brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
 [brittni and the polar bear primary palette in coolors visualizer](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
+[table of contents](#table-of-contents)
+
 # brittni watkins
 
-## brittni watkins Primary Palette
+## brittni watkins primary palette
 
 <div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
 
@@ -93,11 +124,15 @@ h2.white-pass {
 
 <br/>
 
-## brittni watkins Visualizers
+[table of contents](#table-of-contents)
+
+## brittni watkins primary visualizers
 
 [brittni watkins primary palette in coolors](https://coolors.co/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
 [brittni watkins primary palette in coolors visualizer](https://coolors.co/visualizer/d21e96-141ed7-8828dc-b81931-22cadd-050557)
+
+[table of contents](#table-of-contents)
 
 # All Colors
 
@@ -113,6 +148,8 @@ HSL: `hsl(240°, 89%, 18%);`
 
 Name: ravenclaw
 
+[table of contents](#table-of-contents)
+
 ## deep blue
 
 <div style="background: #141ED7;"><p><br/></p></div>
@@ -124,6 +161,8 @@ RGB: `rgb(20, 30, 215);`
 HSL: `hsl(237°, 83%, 46%);`
 
 Name: lapis on neptune
+
+[table of contents](#table-of-contents)
 
 ## cyan
 
@@ -137,6 +176,8 @@ HSL: `hsl(186°, 73%, 50%);`
 
 Name: caribbean blue
 
+[table of contents](#table-of-contents)
+
 ## green
 
 <div style="background: #28BD37;"><p><br/></p></div>
@@ -148,6 +189,8 @@ RGB: `rgb(40, 189, 55);`
 HSL: `hsl(126°, 65%, 45%);`
 
 Name: green with envy
+
+[table of contents](#table-of-contents)
 
 ## purple
 
@@ -161,6 +204,8 @@ HSL: `hsl(272°, 72%, 51%);`
 
 Name: purple protest
 
+[table of contents](#table-of-contents)
+
 ## red
 
 <div style="background: #B81931;"><p><br/></p></div>
@@ -173,6 +218,8 @@ HSL: `hsl(351°, 76%, 41%);`
 
 Name: ruby shard
 
+[table of contents](#table-of-contents)
+
 ## magenta
 
 <div style="background: #D21E96;"><p><br/></p></div>
@@ -184,3 +231,5 @@ RGB: `rgb(210, 30, 150);`
 HSL: `hsl(320°, 75%, 47%);`
 
 Name: indian lake
+
+[table of contents](#table-of-contents)
