@@ -50,7 +50,7 @@ a.white-pass:visited {
 [brittni and the polar bear](#brittni-and-the-polar-bear)
   - [primary palette](#brittni-and-the-polar-bear-primary-palette)
   - [primary visualizers](#brittni-and-the-polar-bear-primary-visualizers)
-  - [pastel palette](#brittni-and-the-polar-bear-pastel-palette)
+  - [light visualizers](#brittni-and-the-polar-bear-light-visualizers)
   - [pastel visualizers](#brittni-and-the-polar-bear-pastel-visualizers)
   - [dark visualizers](#brittni-and-the-polar-bear-dark-visualizers)
 
@@ -157,9 +157,7 @@ a.white-pass:visited {
 
 <br/>[table of contents](#table-of-contents)
 
-## brittni and the polar bear pastel palette
-
-## brittni and the polar bear pastel visualizers
+## brittni and the polar bear light visualizers
 
 [brittni and the polar bear pastel palette in coolors](https://coolors.co/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3)
 
@@ -168,6 +166,16 @@ a.white-pass:visited {
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="04014798906327446">new CoolorsPaletteWidget("04014798906327446", ["c596ee","91e4ee","ee8bcd","89e692","8187f3","ed7d8e","3939f3"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni and the polar bear pastel visualizers
+
+[brittni and the polar bear pastel palette in coolors](https://coolors.co/ecdcf9-dcf7f9-fadbf0-ddf8e0-d9dafc-fadbe0-d8d8fd)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="043603856863057433">new CoolorsPaletteWidget("043603856863057433", ["ecdcf9","dcf7f9","fadbf0","ddf8e0","d9dafc","fadbe0","d8d8fd"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -224,6 +232,16 @@ a.white-pass:visited {
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="03929899991570065">new CoolorsPaletteWidget("03929899991570065", ["ee8bcd","8187f3","c596ee","ed7d8e","91e4ee","3939f3"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni watkins dark visualizers
+
+[brittni watkins dark palette in coolors](https://coolors.co/6b0f4c-0a0f6b-43126e-5e0d18-11656e-03032b)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="039935654691046407">new CoolorsPaletteWidget("039935654691046407", ["6b0f4c","0a0f6b","43126e","5e0d18","11656e","03032b"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
