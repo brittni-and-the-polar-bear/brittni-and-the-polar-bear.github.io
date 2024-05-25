@@ -52,6 +52,7 @@ a.white-pass:visited {
   - [primary visualizers](#brittni-and-the-polar-bear-primary-visualizers)
   - [light visualizers](#brittni-and-the-polar-bear-light-visualizers)
   - [pastel visualizers](#brittni-and-the-polar-bear-pastel-visualizers)
+  - [pale visualizers](#brittni-and-the-polar-bear-pale-visualizers)
   - [dark visualizers](#brittni-and-the-polar-bear-dark-visualizers)
 
 [brittni watkins](#brittni-watkins)
@@ -81,21 +82,22 @@ a.white-pass:visited {
 
 <div class="color-block" style="background: #141ED7;"><a href="#deep-blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
 
-<div class="color-block" style="background: #050557;"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
-
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
+
+<div class="color-block" style="background: #050557;"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
 
 <br/>[table of contents](#table-of-contents)
 
 ## azurepolarbear primary visualizers
 
-[azurepolarbear primary palette in coolors](https://coolors.co/22cadd-28bd37-141ed7-050557-8828dc)
+[azurepolarbear primary palette in coolors](https://coolors.co/22cadd-28bd37-141ed7-8828dc-050557)
 
-[azurepolarbear primary palette visualizer in coolors](https://coolors.co/visualizer/22cadd-28bd37-141ed7-050557-8828dc)
+[azurepolarbear primary palette visualizer in coolors](https://coolors.co/visualizer/22cadd-28bd37-141ed7-8828dc-050557)
 
 <!-- Coolors Palette Widget -->
+<!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]); </script>
+<script data-id="017687781001231873">new CoolorsPaletteWidget("017687781001231873", ["22cadd","28bd37","141ed7","8828dc","050557"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -161,8 +163,6 @@ a.white-pass:visited {
 
 [brittni and the polar bear pastel palette in coolors](https://coolors.co/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3)
 
-[brittni and the polar bear pastel palette visualizer in coolors](https://coolors.co/visualizer/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3)
-
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="04014798906327446">new CoolorsPaletteWidget("04014798906327446", ["c596ee","91e4ee","ee8bcd","89e692","8187f3","ed7d8e","3939f3"]); </script>
@@ -171,11 +171,21 @@ a.white-pass:visited {
 
 ## brittni and the polar bear pastel visualizers
 
-[brittni and the polar bear pastel palette in coolors](https://coolors.co/ecdcf9-dcf7f9-fadbf0-ddf8e0-d9dafc-fadbe0-d8d8fd)
+[brittni and the polar bear pastel palette in coolors](https://coolors.co/ecdcf9-dcf7f9-fadbf0-ddf8e0-d9dafc-fadbe0)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="08967788356754469">new CoolorsPaletteWidget("08967788356754469", ["ecdcf9","dcf7f9","fadbf0","ddf8e0","d9dafc","fadbe0"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni and the polar bear pale visualizers
+
+[brittni and the polar bear pastel palette in coolors](https://coolors.co/f5eefc-eefbfc-fceef7-eefbf0-edeefd-fdedef)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="09169047731839064">new CoolorsPaletteWidget("09169047731839064", ["f5eefc","eefbfc","fceef7","eefbf0","edeefd","fdedef"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -520,7 +530,7 @@ COASTAL BREEZE
 
 FADBF0
 
-JACARANDA
+jacaranda
 
 ## pastel green
 
@@ -532,10 +542,46 @@ MISTY LAWN
 
 D9DAFC
 
-NOSTALGIA PERFUME
+nostalgia perfume
 
 ## pastel red
 
 FADBE0
 
-CAROUSEL PINK
+carousel pink
+
+## pale purple
+
+F5EEFC
+
+CLOUD BREAK
+
+## pale cyan
+
+#eefbfc
+
+COLD WHITE
+
+## pale magenta
+
+FCEEF7
+
+partial pink
+
+## pale green
+
+EEFBF0
+
+PEACEFUL RAIN
+
+## pale blue
+
+EDEEFD
+
+CARTE BLANCHE
+
+## pale red
+
+FDEDEF
+
+TRANSLUCENT UNICORN
