@@ -175,7 +175,7 @@ a.white-pass:visited {
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="043603856863057433">new CoolorsPaletteWidget("043603856863057433", ["ecdcf9","dcf7f9","fadbf0","ddf8e0","d9dafc","fadbe0","d8d8fd"]); </script>
+<script data-id="08967788356754469">new CoolorsPaletteWidget("08967788356754469", ["ecdcf9","dcf7f9","fadbf0","ddf8e0","d9dafc","fadbe0"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -268,10 +268,10 @@ a.white-pass:visited {
 
 <br/>[table of contents](#table-of-contents)
 
-## deep blue (lapis on neptune)
+## blue (lapis on neptune)
 
 <div style="background: #141ED7;">
-  <h3 class="color-block white-pass">deep blue</h3>
+  <h3 class="color-block white-pass">blue</h3>
   <h3 class="color-block white-pass">lapis on neptune</h3>
   <p class="color-block white-pass">
     HEX: <code class="color-block white-pass">#141ED7</code>
@@ -315,7 +315,7 @@ Name: green with envy
 
 [table of contents](#table-of-contents)
 
-## pastel navy
+## light navy
 
 #3939f3
 
@@ -325,7 +325,7 @@ BRIGHT GREEK
 
 240°, 89%, 59%
 
-## pastel blue
+## light blue
 
 #8187f3
 
@@ -349,7 +349,7 @@ Name: purple protest
 
 [table of contents](#table-of-contents)
 
-## pastel green
+## light green
 
 #89E692
 
@@ -359,10 +359,10 @@ ulva lactuca green
 
 126°, 65%, 72%
 
-## pastel cyan (photon barrier)
+## light cyan (photon barrier)
 
 <div style="background: #91E4EE;">
-  <h3 class="color-block black-pass">pastel cyan</h3>
+  <h3 class="color-block black-pass">light cyan</h3>
   <h3 class="color-block black-pass">photon barrier</h3>
   <p class="color-block black-pass">
     HEX: <code class="color-block black-pass">#91E4EE</code>
@@ -390,7 +390,7 @@ Name: ruby shard
 
 [table of contents](#table-of-contents)
 
-## pastel purple
+## light purple
 
 #C596EE
 
@@ -414,7 +414,7 @@ Name: indian lake
 
 [table of contents](#table-of-contents)
 
-## pastel red
+## light red
 
 #ED7D8E
 
@@ -424,7 +424,7 @@ dimple
 
 351°, 76%, 71%
 
-## pastel magenta
+## light magenta
 
 #EE8BCD
 
@@ -503,3 +503,39 @@ midnight
 3, 3, 43
 
 240°, 87%, 9%
+
+## pastel purple
+
+ECDCF9
+
+LAVENDER SAVOR
+
+## pastel cyan
+
+DCF7F9
+
+COASTAL BREEZE
+
+## pastel magenta
+
+FADBF0
+
+JACARANDA
+
+## pastel green
+
+DDF8E0
+
+MISTY LAWN
+
+## pastel blue
+
+D9DAFC
+
+NOSTALGIA PERFUME
+
+## pastel red
+
+FADBE0
+
+CAROUSEL PINK
