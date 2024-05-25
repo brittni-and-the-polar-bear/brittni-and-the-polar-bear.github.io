@@ -180,11 +180,25 @@ a.white-pass:visited {
 
 [brittni watkins primary palette in coolors](https://coolors.co/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
-[brittni watkins primary palette in coolors visualizer](https://coolors.co/visualizer/d21e96-141ed7-8828dc-b81931-22cadd-050557)
+[brittni watkins primary palette visualizer in coolors](https://coolors.co/visualizer/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="0594637457594996">new CoolorsPaletteWidget("0594637457594996", ["d21e96","141ed7","8828dc","b81931","22cadd","050557"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni watkins pastel palette
+
+## brittni watkins pastel visualizers
+
+[brittni watkins pastel palette in coolors](https://coolors.co/ee8bcd-8187f3-c596ee-ed7d8e-91e4ee-3939f3)
+
+[brittni watkins pastel palette visualizer in coolors](https://coolors.co/visualizer/ee8bcd-8187f3-c596ee-ed7d8e-91e4ee-3939f3)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="03929899991570065">new CoolorsPaletteWidget("03929899991570065", ["ee8bcd","8187f3","c596ee","ed7d8e","91e4ee","3939f3"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
