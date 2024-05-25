@@ -113,6 +113,16 @@ a.white-pass:visited {
 
 <br/>[table of contents](#table-of-contents)
 
+## azurepolarbear dark visualizers
+
+[azurepolarbear dark palette in coolors](https://coolors.co/11656e-15661d-0a0f6b-03032b-43126e)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="05952828641857588">new CoolorsPaletteWidget("05952828641857588", ["11656e","15661d","0a0f6b","03032b","43126e"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
 ----
 
 # brittni and the polar bear
