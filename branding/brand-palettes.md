@@ -129,6 +129,48 @@ a.white-pass:visited {
 
 # brittni and the polar bear
 
+## brittni and the polar bear primary palette
+
+<div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
+
+<div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
+
+<div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
+
+<div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
+
+<div class="color-block" style="background: #141ED7;"><a href="#blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
+
+<div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
+
+<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni and the polar bear official palette
+
+<div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
+
+<div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
+
+<div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
+
+<div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
+
+<div class="color-block" style="background: #141ED7;"><a href="#blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
+
+<div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
+
+<div class="color-block" style="background: #150623; text-align: center"><a href="#darkest-purple-election-night"><h2 class="color-block white-pass">election night</h2></a></div>
+
+<div class="color-block" style="background: #030526; text-align: center"><a href="#dark-navy-blue-mysterious-depths"><h2 class="color-block white-pass">mysterious depths</h2></a></div>
+
+<div class="color-block" style="background: #EEFBFC;"><a href="#pale-cyan-cold-white"><h2 class="color-block black-pass">cold white</h2></a></div>
+
+<div class="color-block" style="background: #F9FBFB;"><a href="#off-white-dr-white"><h2 class="color-block black-pass">dr. white</h2></a></div>
+
+<br/>[table of contents](#table-of-contents)
+
 ## brittni and the polar bear official visualizers
 
 [brittni and the polar bear official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc)
@@ -141,21 +183,15 @@ a.white-pass:visited {
 
 <br/>[table of contents](#table-of-contents)
 
-## brittni and the polar bear primary palette
+## brittni and the polar bear compact official visualizers
 
-<div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
+[brittni and the polar bear compact official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-030526-f9fbfb)
 
-<div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
+[brittni and the polar bear compact official palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-030526-f9fbfb)
 
-<div class="color-block" style="background: #D21E96;"><a href="#magenta"><h2 class="color-block white-pass">indian lake</h2></a></div>
-
-<div class="color-block" style="background: #28BD37;"><a href="#green"><h2 class="color-block black-pass">green with envy</h2></a></div>
-
-<div class="color-block" style="background: #141ED7;"><a href="#deep-blue-lapis-on-neptune"><h2 class="color-block white-pass">lapis on neptune</h2></a></div>
-
-<div class="color-block" style="background: #B81931; text-align: center"><a href="#red"><h2 class="color-block white-pass">ruby shard</h2></a></div>
-
-<div class="color-block" style="background: #050557; text-align: center"><a href="#navy-blue-ravenclaw"><h2 class="color-block white-pass">ravenclaw</h2></a></div>
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="06026731077346608">new CoolorsPaletteWidget("06026731077346608", ["8828dc","22cadd","d21e96","28bd37","141ed7","030526","f9fbfb"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
