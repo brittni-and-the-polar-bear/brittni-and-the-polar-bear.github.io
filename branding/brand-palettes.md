@@ -78,6 +78,8 @@ a.white-pass:visited {
 
 # azurepolarbear
 
+<a href="" target="_blank" rel="noopener noreferrer">Placeholder</a>
+
 ## azurepolarbear primary palette
 
 <div class="color-block" style="background: #22CADD;"><a href="#cyan"><h2 class="color-block black-pass">caribbean blue</h2></a></div>
@@ -177,9 +179,9 @@ a.white-pass:visited {
 
 ## brittni and the polar bear primary visualizers
 
-[brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
+<a href="https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557" target="_blank" rel="noopener noreferrer">brittni and the polar bear primary palette in coolors</a>
 
-[brittni and the polar bear primary palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
+<a href="https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557" target="_blank" rel="noopener noreferrer">brittni and the polar bear primary palette visualizer in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -189,9 +191,9 @@ a.white-pass:visited {
 
 ## brittni and the polar bear official visualizers
 
-[brittni and the polar bear official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc)
+<a href="https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc" target="_blank" rel="noopener noreferrer">brittni and the polar bear official palette in coolors</a>
 
-[brittni and the polar bear official palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc)
+<a href="https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc" target="_blank" rel="noopener noreferrer">brittni and the polar bear official palette visualizer in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -201,9 +203,9 @@ a.white-pass:visited {
 
 ## brittni and the polar bear compact official visualizers
 
-[brittni and the polar bear compact official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-030526-f9fbfb)
+<a href="https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-030526-f9fbfb" target="_blank" rel="noopener noreferrer">brittni and the polar bear compact official palette in coolors</a>
 
-[brittni and the polar bear compact official palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-030526-f9fbfb)
+<a href="https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-030526-f9fbfb" target="_blank" rel="noopener noreferrer">brittni and the polar bear compact official palette visualizer in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -213,7 +215,7 @@ a.white-pass:visited {
 
 ## brittni and the polar bear light visualizers
 
-[brittni and the polar bear pastel palette in coolors](https://coolors.co/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3)
+<a href="https://coolors.co/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3" target="_blank" rel="noopener noreferrer">brittni and the polar bear pastel palette in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -223,7 +225,7 @@ a.white-pass:visited {
 
 ## brittni and the polar bear pastel visualizers
 
-[brittni and the polar bear pastel palette in coolors](https://coolors.co/ecdcf9-dcf7f9-fadbf0-ddf8e0-d9dafc-fadbe0)
+<a href="https://coolors.co/ecdcf9-dcf7f9-fadbf0-ddf8e0-d9dafc-fadbe0" target="_blank" rel="noopener noreferrer">brittni and the polar bear pastel palette in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -233,7 +235,7 @@ a.white-pass:visited {
 
 ## brittni and the polar bear pale visualizers
 
-[brittni and the polar bear pale palette in coolors](https://coolors.co/f5eefc-eefbfc-fceef7-eefbf0-edeefd-fdedef)
+<a href="https://coolors.co/f5eefc-eefbfc-fceef7-eefbf0-edeefd-fdedef" target="_blank" rel="noopener noreferrer">brittni and the polar bear pale palette in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -243,7 +245,7 @@ a.white-pass:visited {
 
 ## brittni and the polar bear dark visualizers
 
-[brittni and the polar bear dark palette in coolors](https://coolors.co/43126e-11656e-6b0f4c-15661d-0a0f6b-5e0d18-030526)
+<a href="https://coolors.co/43126e-11656e-6b0f4c-15661d-0a0f6b-5e0d18-030526" target="_blank" rel="noopener noreferrer">brittni and the polar bear dark palette in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -253,7 +255,7 @@ a.white-pass:visited {
 
 ## brittni and the polar bear darkest visualizers
 
-[brittni and the polar bear darkest palette in coolors](https://coolors.co/150623-062023-240519-07220a-030526-24050a)
+<a href="https://coolors.co/150623-062023-240519-07220a-030526-24050a" target="_blank" rel="noopener noreferrer">brittni and the polar bear darkest palette in coolors</a>
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
