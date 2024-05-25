@@ -58,9 +58,7 @@ h2.white-pass {
 
 <div class="color-block" style="background: #8828DC;"><a href="#purple"><h2 class="color-block white-pass">purple protest</h2></a></div>
 
-<br/>
-
-[table of contents](#table-of-contents)
+<br/>[table of contents](#table-of-contents)
 
 ## azurepolarbear primary visualizers
 
@@ -72,9 +70,9 @@ h2.white-pass {
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]);</script>
 
-<br/>
+<br/>[table of contents](#table-of-contents)
 
-[table of contents](#table-of-contents)
+----
 
 # brittni and the polar bear
 
