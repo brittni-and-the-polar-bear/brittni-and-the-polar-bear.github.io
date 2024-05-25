@@ -181,7 +181,7 @@ a.white-pass:visited {
 
 ## brittni and the polar bear pale visualizers
 
-[brittni and the polar bear pastel palette in coolors](https://coolors.co/f5eefc-eefbfc-fceef7-eefbf0-edeefd-fdedef)
+[brittni and the polar bear pale palette in coolors](https://coolors.co/f5eefc-eefbfc-fceef7-eefbf0-edeefd-fdedef)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
@@ -191,11 +191,21 @@ a.white-pass:visited {
 
 ## brittni and the polar bear dark visualizers
 
-[brittni and the polar bear dark palette in coolors](https://coolors.co/43126e-11656e-6b0f4c-15661d-0a0f6b-5e0d18-03032b)
+[brittni and the polar bear dark palette in coolors](https://coolors.co/43126e-11656e-6b0f4c-15661d-0a0f6b-5e0d18-030526)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="05732307850704401">new CoolorsPaletteWidget("05732307850704401", ["43126e","11656e","6b0f4c","15661d","0a0f6b","5e0d18","03032b"]); </script>
+<script data-id="012089931932173714">new CoolorsPaletteWidget("012089931932173714", ["43126e","11656e","6b0f4c","15661d","0a0f6b","5e0d18","030526"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni and the polar bear darkest visualizers
+
+[brittni and the polar bear darkest palette in coolors](https://coolors.co/150623-062023-240519-07220a-030526-24050a)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="05226758745394191">new CoolorsPaletteWidget("05226758745394191", ["150623","062023","240519","07220a","030526","24050a"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -514,6 +524,12 @@ midnight
 
 240°, 87%, 9%
 
+REPLACE
+
+030526
+
+MYSTERIOUS DEPTHS
+
 ## pastel purple
 
 ECDCF9
@@ -585,3 +601,33 @@ CARTE BLANCHE
 FDEDEF
 
 TRANSLUCENT UNICORN
+
+## darkest purple
+
+150623
+
+election night
+
+## darkest cyan
+
+062023
+
+STELLAR EXPLORER
+
+## darkest magenta
+
+#240519
+
+meški black
+
+## darkest green
+
+07220A
+
+CLOCK CHIMES THIRTEEN
+
+## darkest red
+
+24050A
+
+BELLADONNA
