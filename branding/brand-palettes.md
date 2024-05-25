@@ -190,7 +190,7 @@ a.white-pass:visited {
   <a class="color-block white-pass" href="https://coolors.co/141ed7" target="_blank" rel="noopener noreferrer">see the color on coolors</a>
 </div>
 
-[table of contents](#table-of-contents)
+<br/>[table of contents](#table-of-contents)
 
 ## cyan
 
