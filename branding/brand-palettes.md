@@ -17,6 +17,10 @@ div.color-block {
 .white-pass {
   color: white;
 }
+
+a.white-pass:hover {
+  color: white;
+}
 </style>
 
 # brand palettes
