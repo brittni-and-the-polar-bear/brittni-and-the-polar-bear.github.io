@@ -4,12 +4,6 @@ div.color-block {
   text-align: center;
 }
 
-div.color-card {
-  width: 100%;
-  margin: 0;
-  padding: 0.5em;
-}
-
 .color-block {
   width: 100%;
   margin: 0;
@@ -26,6 +20,8 @@ div.color-card {
 </style>
 
 # brand palettes
+
+----
 
 # table of contents
 
@@ -142,26 +138,18 @@ div.color-card {
 
 # All Colors
 
+## navy blue (ravenclaw)
+
 <div style="background: #050557;">
-<h2 class="color-block white-pass">navy blue (ravenclaw)</h2>
-<p class="color-block white-pass">Name: ravenclaw</p>
+<h3 class="color-block white-pass">navy blue</h3>
+<h3 class="color-block white-pass">ravenclaw</h3>
 <p class="color-block white-pass">HEX: <code class="color-block white-pass">#050557</code></p>
 <p class="color-block white-pass">RGB: <code class="color-block white-pass">rgb(5, 5, 87);</code></p>
 <p class="color-block white-pass">HSL: <code class="color-block white-pass">hsl(240°, 89%, 18%);</code></p>
+<a class="color-block white-pass" href="https://coolors.co/050557" target="_blank" rel="noopener noreferrer">see the color on coolors</a>
 </div>
 
-<br/>
-<br/>
-
-<div class="color-card white-pass" style="background: #050557;">
-<h2>navy blue (ravenclaw) 2</h2>
-<p>Name: ravenclaw</p>
-<p>HEX: <code>#050557</code></p>
-<p>RGB: <code>rgb(5, 5, 87);</code></p>
-<p>HSL: <code>hsl(240°, 89%, 18%);</code></p>
-</div>
-
-[table of contents](#table-of-contents)
+<br/>[table of contents](#table-of-contents)
 
 ## deep blue
 
