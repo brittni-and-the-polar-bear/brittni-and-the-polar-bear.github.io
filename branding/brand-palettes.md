@@ -391,3 +391,72 @@ BLUSHED BOMBSHELL
 
 320°, 74%, 74%
 
+## dark purple
+
+#43126e
+
+OBSIDIAN SHELL
+
+67, 18, 110
+
+272°, 72%, 25%
+
+## dark cyan
+
+#11656e
+
+SEAMOUNT
+
+17, 101, 110
+
+186°, 73%, 25%
+
+## dark magenta
+
+#6b0f4c
+
+velvet
+
+107, 15, 76
+
+320°, 75%, 24%
+
+## dark green
+
+#15661d
+
+avagddu green
+
+21, 102, 29
+
+126°, 66%, 24%
+
+## dark blue
+
+#0a0f6b
+
+DYING STORM BLUE
+
+10, 15, 107
+
+237°, 83%, 23%
+
+## dark red
+
+#5e0d18
+
+CHERRY PICKING
+
+94, 13, 24
+
+352°, 76%, 21%
+
+## dark navy blue
+
+#03032b
+
+midnight
+
+3, 3, 43
+
+240°, 87%, 9%
