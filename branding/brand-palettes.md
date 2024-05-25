@@ -134,11 +134,25 @@ a.white-pass:visited {
 
 [brittni and the polar bear primary palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
-[brittni and the polar bear primary palette in coolors visualizer](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
+[brittni and the polar bear primary palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
 <script data-id="048167341920836604">new CoolorsPaletteWidget("048167341920836604", ["8828dc","22cadd","d21e96","28bd37","141ed7","b81931","050557"]); </script>
+
+<br/>[table of contents](#table-of-contents)
+
+## brittni and the polar bear pastel palette
+
+## brittni and the polar bear pastel visualizers
+
+[brittni and the polar bear pastel palette in coolors](https://coolors.co/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3)
+
+[brittni and the polar bear pastel palette visualizer in coolors](https://coolors.co/visualizer/c596ee-91e4ee-ee8bcd-89e692-8187f3-ed7d8e-3939f3)
+
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="04014798906327446">new CoolorsPaletteWidget("04014798906327446", ["c596ee","91e4ee","ee8bcd","89e692","8187f3","ed7d8e","3939f3"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -282,7 +296,7 @@ Name: purple protest
 
 #89E692
 
-ULVA LACTUCA GREEN
+ulva lactuca green
 
 137, 230, 146
 
@@ -342,3 +356,24 @@ HSL: `hsl(320°, 75%, 47%);`
 Name: indian lake
 
 [table of contents](#table-of-contents)
+
+## pastel red
+
+#ED7D8E
+
+dimple
+
+237, 125, 142
+
+351°, 76%, 71%
+
+## pastel magenta
+
+#EE8BCD
+
+BLUSHED BOMBSHELL
+
+238, 139, 205
+
+320°, 74%, 74%
+
