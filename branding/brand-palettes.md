@@ -88,7 +88,7 @@ a.white-pass:visited {
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]);</script>
+<script data-id="07766950060468314">new CoolorsPaletteWidget("07766950060468314", ["22cadd","28bd37","141ed7","050557","8828dc"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -120,7 +120,11 @@ a.white-pass:visited {
 
 [brittni and the polar bear primary palette in coolors visualizer](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-050557)
 
-[table of contents](#table-of-contents)
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="048167341920836604">new CoolorsPaletteWidget("048167341920836604", ["8828dc","22cadd","d21e96","28bd37","141ed7","b81931","050557"]); </script>
+
+<br/>[table of contents](#table-of-contents)
 
 ----
 
@@ -148,7 +152,11 @@ a.white-pass:visited {
 
 [brittni watkins primary palette in coolors visualizer](https://coolors.co/visualizer/d21e96-141ed7-8828dc-b81931-22cadd-050557)
 
-[table of contents](#table-of-contents)
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="0594637457594996">new CoolorsPaletteWidget("0594637457594996", ["d21e96","141ed7","8828dc","b81931","22cadd","050557"]); </script>
+
+<br/>[table of contents](#table-of-contents)
 
 ----
 
