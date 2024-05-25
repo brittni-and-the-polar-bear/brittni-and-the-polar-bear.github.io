@@ -131,11 +131,13 @@ a.white-pass:visited {
 
 ## brittni and the polar bear official visualizers
 
-[brittni and the polar bear official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-150623-030526-eefbfc-fceef7)
+[brittni and the polar bear official palette in coolors](https://coolors.co/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc)
+
+[brittni and the polar bear official palette visualizer in coolors](https://coolors.co/visualizer/8828dc-22cadd-d21e96-28bd37-141ed7-b81931-150623-030526-f9fbfb-eefbfc)
 
 <!-- Coolors Palette Widget -->
 <script src="https://coolors.co/palette-widget/widget.js"></script>
-<script data-id="07533207514252591">new CoolorsPaletteWidget("07533207514252591", ["8828dc","22cadd","d21e96","28bd37","141ed7","150623","030526","eefbfc","fceef7"]); </script>
+<script data-id="015654914416003907">new CoolorsPaletteWidget("015654914416003907", ["8828dc","22cadd","d21e96","28bd37","141ed7","b81931","150623","030526","f9fbfb","eefbfc"]); </script>
 
 <br/>[table of contents](#table-of-contents)
 
@@ -641,3 +643,9 @@ CLOCK CHIMES THIRTEEN
 24050A
 
 BELLADONNA
+
+## off white
+
+#f9fbfb
+
+dr. white
