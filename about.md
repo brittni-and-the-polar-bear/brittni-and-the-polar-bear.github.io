@@ -1,4 +1,4 @@
-# about brittni and the polar bear
+# welcome, from brittni and the polar bear
 
 Hello, everyone! Welcome to brittni and the polar bear! We are the team of <a href="https://blwatkins.github.io/" target="_blank" rel="noopener noreferrer">brittni watkins</a> and <a href="https://azurepolarbear.github.io/" target="_blank" rel="noopener noreferrer">azurepolarbear</a>, and between the two of us we are interested in everything from generative art, to blockchain, to application development, to computer science education.
 

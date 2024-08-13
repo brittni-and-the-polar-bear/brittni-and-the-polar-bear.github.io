@@ -2,7 +2,7 @@
 
 ----
 
-# [about brittni and the polar bear](./about.md)
+# [welcome, from brittni and the polar bear](./about.md)
 
 ----
 
@@ -10,15 +10,11 @@
 
 ----
 
-# [learning repositories](./learning-repositories.md)
+# [learn to code](https://blwatkins.github.io/learn-to-code/)
 
 ----
 
 # [programming tools we use](./tools/programming.md)
-
-----
-
-# [blog](./blog/index.md)
 
 ----
 
