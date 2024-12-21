@@ -38,9 +38,13 @@ There is beauty in code, and code can make beautiful things.
 We are currently accepting donations to support our creative projects.
 
 <div style="text-align: center;">
-<a href="https://www.buymeacoffee.com/brittniandthepolarbear"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=brittniandthepolarbear&button_colour=8828dc&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+  <p>
+    <a href="https://www.buymeacoffee.com/brittniandthepolarbear"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=brittniandthepolarbear&button_colour=8828dc&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+  </p>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '8828dc', 'O5O717Q6YA');kofiwidget2.draw();</script>
+  <p>
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '8828dc', 'O5O717Q6YA');kofiwidget2.draw();</script>
+  </p>
 <br/>
 </div>
 
