@@ -2,3 +2,8 @@
 
 # WebStorm
 .idea/
+
+# Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
