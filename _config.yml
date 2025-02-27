@@ -1,9 +1,9 @@
-# Minimal Theme
-remote_theme: pages-themes/minimal@v0.2.0
+# Minima theme configuration
+remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 title: brittni and the polar bear - code + art boutique
 description: stationery + gifts created from original algorithmic art 💜👩🏽‍💻🎨
-logo: assets/img/logo.png
+logo: assets/images/logo.png
 show_downloads: false
