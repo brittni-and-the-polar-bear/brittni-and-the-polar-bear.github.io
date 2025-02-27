@@ -3,7 +3,22 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+minima:
+  skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/brittni-and-the-polar-bear"
+
+header_pages:
+  - index.md
+  - team.md
+
 title: brittni and the polar bear - code + art boutique
-description: stationery + gifts created from original algorithmic art 💜👩🏽‍💻🎨
+description: stationery + gifts created from original algorithmic art
 logo: assets/images/logo.png
 show_downloads: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
