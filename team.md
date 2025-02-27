@@ -1,4 +1,6 @@
-# meet the team
+---
+title: meet the team
+---
 
 ## [azurepolarbear](https://azurepolarbear.github.io/)
 

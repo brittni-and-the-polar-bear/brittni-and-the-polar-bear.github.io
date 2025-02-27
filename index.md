@@ -12,17 +12,15 @@ We at brittni and the polar bear believe that the applications of computer progr
 
 ***There is beauty in code, and code can make beautiful things.***
 
+----
+
 ## [shop now!](https://brittniandthepolarbear.com/)
 
 ----
 
-## [meet the team](./team.md)
-
----
-
 ## [see the art: azurepolarbear](https://azurepolarbear.github.io/)
 
----
+----
 
 ## [learn to code: brittni](https://blwatkins.github.io/)
 
