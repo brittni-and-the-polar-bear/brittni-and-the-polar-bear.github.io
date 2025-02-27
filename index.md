@@ -4,16 +4,15 @@ title: home
 
 # brittni and the polar bear | code + art boutique
 
-### Our online store is launching soon!
+Established in 2023, brittni and the polar bear is the culmination of more than 18 years of artistic practice and technical experience.
 
-brittni and the polar bear was established in November 2023.
-brittni is an educator and software engineer passionate about creative technology.
-azurepolarbear is an algorithmic artist, singer, and photographer
-who has been developing her artistic practice since 2007.
-Together, they create content, products, and services that encourage
-appreciation and curiosity in the creative applications of code and programming.
+brittni is an educator and software engineer passionate about creative technology. azurepolarbear is an algorithmic artist, singer, and photographer who has been developing her artistic practice since 2007. Together, they create content, products, and services that encourage exploration and appreciation for the intersection of creative practice, technical application, and technological innovation.
 
-There is beauty in code, and code can make beautiful things.
+We at brittni and the polar bear believe that the applications of computer programming are numerous and varied; there is space for everyone.
+
+***There is beauty in code, and code can make beautiful things.***
+
+## [shop now!](https://brittniandthepolarbear.com/)
 
 ----
 
@@ -25,11 +24,11 @@ There is beauty in code, and code can make beautiful things.
 
 ---
 
-## [learn to code: brittni watkins](https://blwatkins.github.io/learn-to-code/)
+## [learn to code: brittni](https://blwatkins.github.io/)
 
 ----
 
-## [make the art: @batpb/genart](https://brittni-and-the-polar-bear.github.io/generative-art-library/)
+## [make the art: @batpb/genart](https://brittni-and-the-polar-bear.github.io/genart/)
 
 ----
 
@@ -50,6 +49,6 @@ We are currently accepting donations to support our creative projects.
 
 ----
 
-[branding](./branding/brand-palettes.md)
+[branding colors](./branding/brand-palettes.md)
 
 ### Fin.
