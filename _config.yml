@@ -13,6 +13,7 @@ minima:
 header_pages:
   - index.md
   - team.md
+  - posts.md
 
 title: brittni and the polar bear - code + art boutique
 description: stationery + gifts created from original algorithmic art

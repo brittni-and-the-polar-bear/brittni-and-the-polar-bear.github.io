@@ -18,6 +18,16 @@ We at brittni and the polar bear believe that the applications of computer progr
 
 ----
 
+## [posts](./posts.md)
+
+<ul>
+{% for post in site.posts limit:5 %}
+<li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+----
+
 ## [see the art: azurepolarbear](https://azurepolarbear.github.io/)
 
 ----
