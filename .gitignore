@@ -7,3 +7,6 @@
 _site/
 .jekyll-cache/
 .sass-cache/
+
+# Ruby
+Gemfile.lock

@@ -1,21 +1,10 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ '/' | relative_url }}"></data>
+  <data class="u-url" value="{{ '/' | relative_url }}"></data>
 
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <path d="M12.8 16C12.8 8.978 7.022 3.2 0 3.2V0c8.777 0 16 7.223 16 16h-3.2zM2.194
-                11.61c1.21 0 2.195.985 2.195 2.196 0 1.21-.99 2.194-2.2 2.194C.98 16 0 15.017 0
-                13.806c0-1.21.983-2.195 2.194-2.195zM10.606
-                16h-3.11c0-4.113-3.383-7.497-7.496-7.497v-3.11c5.818 0 10.606 4.79 10.606 10.607z"
-              />
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -36,8 +25,14 @@
       {%- include social.html -%}
     </div>
 
+    <!-- default edit: add copyright statement -->
+    <div>
+        <p>
+          <br/>
+          Copyright (C) 2023-2025 brittni and the polar bear LLC.
+        </p>
+    </div>
+
   </div>
 
-  <!-- default change: metricool tracking script -->
-  <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"dc013be909d0e4f3cb6881b83d4f79ee"})});</script>
 </footer>

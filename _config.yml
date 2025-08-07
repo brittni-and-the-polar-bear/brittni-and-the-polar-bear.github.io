@@ -3,6 +3,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+# valid social icon names can be found at https://fontawesome.com/search?ic=brands
+
 minima:
   skin: auto
   hide_site_feed_link: true
