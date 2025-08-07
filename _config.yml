@@ -5,15 +5,14 @@ plugins:
 
 minima:
   skin: auto
+  hide_site_feed_link: true
   social_links:
     - title: GitHub
       icon: github
       url: "https://github.com/brittni-and-the-polar-bear"
-
-header_pages:
-  - index.md
-  - team.md
-  - posts.md
+  nav_pages:
+    - index.md
+    - team.md
 
 title: brittni and the polar bear - code + art boutique
 description: stationery + gifts created from original algorithmic art
@@ -23,3 +22,4 @@ show_downloads: false
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md

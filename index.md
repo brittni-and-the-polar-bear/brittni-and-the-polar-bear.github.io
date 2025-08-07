@@ -14,7 +14,7 @@ We at brittni and the polar bear believe that the applications of computer progr
 
 ----
 
-## [shop now!](https://brittniandthepolarbear.com/)
+## [shop now](https://brittniandthepolarbear.com/)
 
 ----
 
